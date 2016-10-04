@@ -17,15 +17,17 @@
 
 
 -------------------------------------------------
-> Make it right before you make it faster.
+> To follow the path:
 
-> Keep it right when you make it faster.
+> 1. look to the master.
 
-> Make it clear before you make it faster.
+> 2. follow the master.
 
-> Do not sacrifice clarity for small gains in efficiency.
+> 3. walk with the master.
 
-> -- Brian Kernighann
+> 4. see through the master.
+
+> 5. become the master.
 
 -------------------------------------------------
 
