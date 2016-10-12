@@ -33,10 +33,11 @@
 
 # 学习笔记
 
+-   2016.10.12 [JavaScript 原型链](https://github.com/modood/modood.github.io/blob/master/notes/JavaScript-prototype-chain/)
 -   2016.10.06 [使用 scp 传输文件（基于 SSH）](https://github.com/modood/modood.github.io/blob/master/notes/scp/)
 -   2016.10.05 [NodeJS 签名生成和校验（基于RSA）](https://github.com/modood/modood.github.io/blob/master/notes/RSA/)
--   2016.10.05 [Git](https://github.com/modood/modood.github.io/blob/master/notes/Git/)
+-   2016.10.05 [Git 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/Git/)
 -   2016.10.04 [HTML5 离线数据存储](https://github.com/modood/modood.github.io/blob/master/notes/HTML5-storage/)
 -   2016.10.03 [JavaScript 前后端共用模块](https://github.com/modood/modood.github.io/blob/master/notes/JavaScript-module/)
--   2016.10.03 [RESTful API](https://github.com/modood/modood.github.io/blob/master/notes/RESTful-API/)
+-   2016.10.03 [RESTful API 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/RESTful-API/)
 
