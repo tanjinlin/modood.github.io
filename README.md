@@ -34,6 +34,7 @@
 # 学习笔记
 
 -   2016.10.12 [JavaScript 原型链](https://github.com/modood/modood.github.io/blob/master/notes/JavaScript-prototype-chain/)
+-   2016.10.12 [NodeJS 中的 SESSION](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-session/)
 -   2016.10.12 [NodeJS 中的 COOKIE](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-cookie/)
 -   2016.10.06 [使用 scp 传输文件（基于 SSH）](https://github.com/modood/modood.github.io/blob/master/notes/scp/)
 -   2016.10.05 [NodeJS 签名生成和校验（基于RSA）](https://github.com/modood/modood.github.io/blob/master/notes/RSA/)
