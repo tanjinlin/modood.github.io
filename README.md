@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.10.13 [Ajax 传递数组参数](https://github.com/modood/modood.github.io/blob/master/notes/pass-array-to-ajax/)
 -   2016.10.13 [jQuery $ 符号的几点用途](https://github.com/modood/modood.github.io/blob/master/notes/jQuery-dollar/)
 -   2016.10.12 [JavaScript 原型链](https://github.com/modood/modood.github.io/blob/master/notes/JavaScript-prototype-chain/)
 -   2016.10.12 [NodeJS 中的 SESSION](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-session/)
