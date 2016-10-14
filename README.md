@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.10.14 [NodeJS 图片上传到服务器并上传到七牛](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-upload-image/)
 -   2016.10.14 [Connect/Express 的中间件机制](https://github.com/modood/modood.github.io/blob/master/notes/connect-express-middleware/)
 -   2016.10.13 [Ajax 传递数组参数](https://github.com/modood/modood.github.io/blob/master/notes/pass-array-to-ajax/)
 -   2016.10.13 [jQuery $ 符号的几点用途](https://github.com/modood/modood.github.io/blob/master/notes/jQuery-dollar/)
