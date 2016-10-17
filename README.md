@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.10.17 [ESLint 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/ESLint/)
 -   2016.10.17 [使用 NodeJS 开发命令行工具](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-command-line-tool/)
 -   2016.10.14 [NodeJS 图片上传到服务器并上传到七牛](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-upload-image/)
 -   2016.10.14 [Connect/Express 的中间件机制](https://github.com/modood/modood.github.io/blob/master/notes/connect-express-middleware/)
