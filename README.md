@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.10.18 [JavaScript 中 number 数据类型相关转换](https://github.com/modood/modood.github.io/blob/master/notes/JavaScript-number-conversion/)
 -   2016.10.18 [mongoose 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/mongoose/)
 -   2016.10.17 [使用 curl 基于 http 和 ftp 协议的上传和下载](https://github.com/modood/modood.github.io/blob/master/notes/curl/)
 -   2016.10.17 [ESLint 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/ESLint/)
