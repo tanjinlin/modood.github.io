@@ -2,19 +2,19 @@
 
 目录：
 
-* [Schema](#Schema)
-* [Model](#Model)
-* [Entity](#Entity)
+* [Schema](#schema)
+* [Model](#model)
+* [Entity](#entity)
 * [statics](#statics)
 * [methods](#methods)
 * [virtual](#virtual)
 * [set](#set)
 * [add](#add)
-* [Query](#Query)
-* [Population](#Population)
-* [Validation](#Validation)
-* [Middleware](#Middleware)
-* [Plugins](#Plugins)
+* [Query](#query)
+* [Population](#population)
+* [Validation](#validation)
+* [Middleware](#middleware)
+* [Plugins](#plugins)
 
 ## Schema
 
