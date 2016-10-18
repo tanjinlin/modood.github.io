@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.10.18 [mongoose 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/mongoose/)
 -   2016.10.17 [使用 curl 基于 http 和 ftp 协议的上传和下载](https://github.com/modood/modood.github.io/blob/master/notes/curl/)
 -   2016.10.17 [ESLint 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/ESLint/)
 -   2016.10.17 [使用 NodeJS 开发命令行工具](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-command-line-tool/)
