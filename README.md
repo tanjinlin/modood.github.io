@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.10.24 [Bash 中如何判断是否存在某个命](https://github.com/modood/modood.github.io/blob/master/notes/Bash-check-program/)
 -   2016.10.24 [常用开发工具安装方法](https://github.com/modood/modood.github.io/blob/master/notes/Installation/)
 -   2016.10.18 [JavaScript 中 number 数据类型相关转换](https://github.com/modood/modood.github.io/blob/master/notes/JavaScript-number-conversion/)
 -   2016.10.18 [mongoose 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/mongoose/)
