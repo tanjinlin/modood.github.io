@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.10.27 [NodeJS 错误处理实践](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-error-handling/)
 -   2016.10.25 [关于 NodeJS 中的 require 和同步I/O](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-require/)
 -   2016.10.24 [Bash 中如何判断是否存在某个命](https://github.com/modood/modood.github.io/blob/master/notes/Bash-check-program/)
 -   2016.10.24 [常用开发工具安装方法](https://github.com/modood/modood.github.io/blob/master/notes/Installation/)
