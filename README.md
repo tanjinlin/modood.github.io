@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.11.08 [Promise 相关资源](https://github.com/modood/modood.github.io/blob/master/notes/Promise/)
 -   2016.11.07 [Sublime-Text-3 常用配置、插件、主题和配色方案](https://github.com/modood/modood.github.io/blob/master/notes/Sublime-Text-3/)
 -   2016.10.27 [NodeJS 错误处理实践](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-error-handling/)
 -   2016.10.25 [关于 NodeJS 中的 require 和同步I/O](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-require/)
