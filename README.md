@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.11.09 [Tmux 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/tmux/)
 -   2016.11.08 [Promise 相关资源](https://github.com/modood/modood.github.io/blob/master/notes/Promise/)
 -   2016.11.07 [Sublime-Text-3 常用配置、插件、主题和配色方案](https://github.com/modood/modood.github.io/blob/master/notes/Sublime-Text-3/)
 -   2016.10.27 [NodeJS 错误处理实践](https://github.com/modood/modood.github.io/blob/master/notes/NodeJS-error-handling/)
