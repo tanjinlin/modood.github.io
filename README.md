@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.11.11 [PostgreSQL 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/PostgreSQL/)
 -   2016.11.10 [Node 核心模块学习](https://github.com/modood/modood.github.io/blob/master/notes/Node-core-module/)
 -   2016.11.09 [Tmux 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/tmux/)
 -   2016.11.08 [Promise 相关资源](https://github.com/modood/modood.github.io/blob/master/notes/Promise/)
