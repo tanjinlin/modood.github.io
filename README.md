@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.11.12 [Ubuntu 下开发常见遇到的问题以及解决方案](https://github.com/modood/modood.github.io/blob/master/notes/Ubuntu-problems/)
 -   2016.11.12 [Centos 下开发常见遇到的问题以及解决方案](https://github.com/modood/modood.github.io/blob/master/notes/Centos-problems/)
 -   2016.11.11 [PostgreSQL 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/PostgreSQL/)
 -   2016.11.10 [Node 核心模块学习](https://github.com/modood/modood.github.io/blob/master/notes/Node-core-module/)
