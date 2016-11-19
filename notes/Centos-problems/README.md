@@ -55,3 +55,18 @@
 -   参考资料
 
     http://www.2cto.com/os/201207/142437.html
+
+## Centos 下 g++ 安装
+
+-   问题描述
+
+    如果直接键入: `sudo yum install g++` 会提示 `没有可用软件包 g++`
+
+-   解决办法
+
+    使用 `sudo yum install gcc-c++`，这才是这个包的名字。
+
+-   参考资料
+
+    http://blog.sina.com.cn/s/blog_6f561cc301015emv.html
+
