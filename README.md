@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.11.19 [API Gateway: Kong 基本部署和使用](https://github.com/modood/modood.github.io/blob/master/notes/Kong/)
 -   2016.11.15 [JavaScript 最常用 API 整理](https://github.com/modood/modood.github.io/blob/master/notes/JavaScript-APIs/)
 -   2016.11.15 [Vim 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/vim/)
 -   2016.11.14 [CSS 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/css/)
