@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.11.24 [Node(v7.1.0) API 文档全文通读一遍](https://github.com/modood/modood.github.io/blob/master/notes/node-api-v7.1.0/)
 -   2016.11.22 [Ping++ 支付集成](https://github.com/modood/modood.github.io/blob/master/notes/Pingpp/)
 -   2016.11.19 [API Gateway: Kong 基本部署和使用](https://github.com/modood/modood.github.io/blob/master/notes/Kong/)
 -   2016.11.15 [JavaScript 最常用 API 整理](https://github.com/modood/modood.github.io/blob/master/notes/JavaScript-APIs/)
