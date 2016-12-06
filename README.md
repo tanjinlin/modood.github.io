@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.12.06 [Emacs 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/Emacs/)
 -   2016.11.25 [使用 Systemctl 管理服务器服务](https://github.com/modood/modood.github.io/blob/master/notes/Systemctl/)
 -   2016.11.24 [Node(v7.1.0) API 文档全文通读一遍](https://github.com/modood/modood.github.io/blob/master/notes/node-api-v7.1.0/)
 -   2016.11.22 [Ping++ 支付集成](https://github.com/modood/modood.github.io/blob/master/notes/Pingpp/)
