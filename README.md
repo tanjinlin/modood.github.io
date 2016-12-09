@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.12.09 [使用 pm2 部署 Node 产品环境服务](https://github.com/modood/modood.github.io/blob/master/notes/pm2-deploy/)
 -   2016.12.09 [常用的 node, npm, nvm, nrm, pm2 命令](https://github.com/modood/modood.github.io/blob/master/notes/node-npm-nvm-nrm-pm2/)
 -   2016.12.06 [Emacs 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/Emacs/)
 -   2016.11.25 [使用 Systemctl 管理服务器服务](https://github.com/modood/modood.github.io/blob/master/notes/Systemctl/)
