@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.12.09 [常用的 node, npm, nvm, nrm, pm2 命令](https://github.com/modood/modood.github.io/blob/master/notes/node-npm-nvm-nrm-pm2/)
 -   2016.12.06 [Emacs 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/Emacs/)
 -   2016.11.25 [使用 Systemctl 管理服务器服务](https://github.com/modood/modood.github.io/blob/master/notes/Systemctl/)
 -   2016.11.24 [Node(v7.1.0) API 文档全文通读一遍](https://github.com/modood/modood.github.io/blob/master/notes/node-api-v7.1.0/)
