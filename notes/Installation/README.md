@@ -272,11 +272,15 @@ Centos
     ```
     $ tar -zxvf mongodb-linux-x86_64-amazon-3.2.7.tgz
     $ sudo mv mongodb-linux-x86_64-amazon-3.2.7 /usr/local/lib
+    ```
 
-    $ sudo ln -s /usr/local/lib/mongodb-linux-x86_64-amazon-3.2.7/bin/mongod /usr/bin/mongod
+-   设置环境变量
 
-    $ sudo ln -s /usr/local/lib/mongodb-linux-x86_64-amazon-3.2.7/bin/mongo /usr/local/bin/mongo
-    $ sudo ln -s /usr/local/lib/mongodb-linux-x86_64-amazon-3.2.7/bin/mongoexport /usr/local/bin/mongoexport
+    ```
+    $ vi ~/.bashrc
+    ```
+    ```bash
+    export PATH="$PATH:/usr/local/lib/mongodb-linux-x86_64-amazon-3.2.7/bin/"
     ```
 
 -   创建数据和日志文件目录
@@ -401,7 +405,7 @@ Centos
     $ sudo mv redis-3.0.3 /usr/local/lib/
     $ cd /usr/local/lib/redis-3.0.3/
     $ make
-    $ sudo ln -s /usr/local/lib/redis-3.0.3/src/redis-server /usr/bin/redis-server
+    $ sudo ln -s /usr/local/lib/redis-3.0.3/src/redis-server /usr/local/bin/redis-server
     $ sudo ln -s /usr/local/lib/redis-3.0.3/src/redis-cli /usr/local/bin/redis-cli
     ```
 
@@ -416,7 +420,8 @@ Centos
 -   编辑配置文件
 
     ```
-    $ sudo vi /usr/local/lib/redis-3.0.3/redis.conf
+    $ sudo cp /user/local/lib/redis-3.0.3/redis.conf /etc/
+    $ sudo vi /etc/redis.conf
     ```
     ```
     logfile /var/log/redis/redis-server.log
@@ -428,7 +433,7 @@ Centos
 -   设置密码
 
     ```
-    $ sudo vi /usr/local/lib/redis-3.0.3/redis.conf
+    $ sudo vi /etc/redis.conf
     ```
     ```
     requirepass yourpassword
@@ -443,7 +448,7 @@ Centos
 -   启动
 
     ```
-    $ sudo redis-server /usr/local/lib/redis-3.0.3/redis.conf &
+    $ sudo redis-server /etc/redis.conf &
     ```
 
 Mac
@@ -522,15 +527,13 @@ Mac
     $ sudo brew install rabbitmq
     ```
 
--   创建软连接
+-   设置环境变量
 
     ```
-    $ sudo ln -s /usr/local/Cellar/rabbitmq/3.6.1/sbin/rabbitmq-defaults /usr/local/bin/rabbitmq-defaults
-    $ sudo ln -s /usr/local/Cellar/rabbitmq/3.6.1/sbin/rabbitmq-env /usr/local/bin/rabbitmq-env
-    $ sudo ln -s /usr/local/Cellar/rabbitmq/3.6.1/sbin/rabbitmq-plugins /usr/local/bin/rabbitmq-plugins
-    $ sudo ln -s /usr/local/Cellar/rabbitmq/3.6.1/sbin/rabbitmq-server /usr/local/bin/rabbitmq-server
-    $ sudo ln -s /usr/local/Cellar/rabbitmq/3.6.1/sbin/rabbitmqadmin /usr/local/bin/rabbitmqadmin
-    $ sudo ln -s /usr/local/Cellar/rabbitmq/3.6.1/sbin/rabbitmqctl /usr/local/bin/rabbitmqctl
+    $ vi ~/.bashrc
+    ```
+    ```bash
+    export PATH="$PATH:/usr/local/Cellar/rabbitmq/3.6.1/sbin/"
     ```
 
 -   启动
