@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.12.15 [OpenSSL 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/OpenSSL/)
 -   2016.12.13 [OpenBSD 项目相关软件套件](https://github.com/modood/modood.github.io/blob/master/notes/OpenBSD/)
 -   2016.12.12 [如何保持 ssh 连接不断开](https://github.com/modood/modood.github.io/blob/master/notes/ssh-keepalive/)
 -   2016.12.12 [常用 Safari 快捷键](https://github.com/modood/modood.github.io/blob/master/notes/Safari/)
