@@ -33,6 +33,7 @@
 
 # 学习笔记
 
+-   2016.12.29 [消息队列](https://github.com/modood/modood.github.io/blob/master/notes/MQ/)
 -   2016.12.23 [关于 HTTPS 的一些基本概念](https://github.com/modood/modood.github.io/blob/master/notes/https/)
 -   2016.12.15 [OpenSSL 学习笔记](https://github.com/modood/modood.github.io/blob/master/notes/OpenSSL/)
 -   2016.12.13 [OpenBSD 项目相关软件套件](https://github.com/modood/modood.github.io/blob/master/notes/OpenBSD/)
