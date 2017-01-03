@@ -20,6 +20,16 @@
     sudo apt-get remove thunderbird totem rhythmbox empathy brasero simple-scan gnome-mahjongg aisleriot gnome-mines cheese transmission-common gnome-orca webbrowser-app gnome-sudoku landscape-client-ui-install onboard deja-dup
     ```
 
+-   卸载火狐浏览器
+
+    ```bash
+    # 查询相关
+    dpkg --get-selections | grep firefox
+
+    # 完全卸载
+    sudo apt-get purge firefox firefox-branding firefox-gnome-support ubufox firefox-locale-en unity-scope-firefoxbookmarks
+    ```
+
 ## vi 编辑器上下左右键变成ABCD
 
 -   解决办法
@@ -145,7 +155,7 @@
     我的解决办法是修改个人用户的配置文件,如下:
 
     ```
-    echo “GSSAPIAuthentication no” >> ~/.ssh/config
+    echo "GSSAPIAuthentication no" >> ~/.ssh/config
     ```
 
 -   详细
